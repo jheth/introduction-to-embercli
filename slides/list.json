@@ -1,0 +1,19 @@
+[
+    "index.md",
+    "what-is-it.md",
+    "broccoli.md",
+    "installation.md",
+    "new-project.md",
+    "project-structure.html",
+    "running-the-server.md",
+    "live-coding.md",
+    "generate-routes.md",
+    "generate-model.md",
+    "generate-adapter.md",
+    "generate-component.md",
+    "update-templates.md",
+    "advanced-component.md",
+    "advanced-component-template.md",
+    "generate-controller.md",
+    "testing.md"
+]

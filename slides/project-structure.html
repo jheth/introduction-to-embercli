@@ -1,0 +1,22 @@
+<h2>Project Structure</h2>
+
+<style>
+  .reveal section table th,
+  .reveal section table td {
+    font-size: 70%;
+  }
+</style>
+
+<table>
+  <thead>
+    <tr><th>File/folder</th><th>Purpose</th></tr>
+  </thead>
+  <tbody>
+    <tr><td width="170px">app/app.js</td><td>Your application’s entry point. This is the module that is first executed.</td></tr>
+    <tr><td>app/index.html</td><td>The only actual page of your single-page app! Includes dependencies and kickstarts your Ember application.</td></tr>
+    <tr><td>app/router.js</td><td>Your route configuration. The routes defined here correspond to routes in app/routes/.</td></tr>
+    <tr><td>app/styles/</td><td>Contains your stylesheets, whether SASS, LESS, Stylus, Compass, or plain CSS (though only one type is allowed, see Asset Compilation). These are all compiled into app.css.</td></tr>
+    <tr><td>app/templates/</td><td>Your Handlebars templates. These are compiled to templates.js. The templates are named the same as their filename, minus the extension (i.e. templates/foo/bar.hbs -> foo/bar).</td></tr>
+    <tr><td>app/controllers/ app/models/</td><td>Modules resolved by the Ember CLI resolver.</td></tr>
+  </tbody>
+</table>
