@@ -1,6 +1,6 @@
 ##  Installation
 
-Requires [NodeJS >= 0.12](http://nodejs.org/)
+Requires [NodeJS](http://nodejs.org/)
 
 <br />
 Ember CLI

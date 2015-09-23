@@ -1,6 +1,6 @@
-##  Asset Management
+##  Asset Pipeline
 
-Powered By [Broccoli](https://github.com/broccolijs/broccoli)
+Powered By Broccoli (Beta)
 
 * Handlebars, Emblem
 * LESS, SASS, Compass, Stylus
