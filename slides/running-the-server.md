@@ -1,13 +1,14 @@
 ##  Running the Server
 
 ```
-cd blog
-ember server
+cd bloggit
+ember s
+# ember serve
 ```
 
 ```
-version: 0.1.2
-Livereload server on port 35729
+version: 1.13.8
+Livereload server on port 49152
 Serving on http://0.0.0.0:4200/
 
 Build successful - 372ms.

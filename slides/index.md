@@ -1,5 +1,5 @@
 
-# Introduction to ember-cli
+# Ember.js Workshop
 
 
   Joe Heth

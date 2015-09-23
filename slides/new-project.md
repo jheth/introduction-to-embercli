@@ -1,18 +1,18 @@
 ##  New Project
 
 ```
-ember new blog
+ember new bloggit
 ```
 
 ```
-version: 0.1.2
+version: 1.13.8
 installing
   create .bowerrc
   create .editorconfig
   create .ember-cli
   create .jshintrc
   create .travis.yml
-  create Brocfile.js
+  create ember-cli-build.js
   create README.md
   create app/app.js
   create app/components/.gitkeep
@@ -49,4 +49,4 @@ Successfully initialized git.
 ```
 
 Note:
-Show Brocfile.js, bower.json, package.json, testem.json
+Show ember-cli-build.js, bower.json, package.json, testem.json
